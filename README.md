@@ -2,6 +2,9 @@
 
 **Josh Musics** is a responsive and fully functional web music player application built using React, Redux, and Tailwind CSS. Designed to replicate a simplified streaming experience, it allows users to browse tracks, play music, search by artist or title, and manage personal playlists and liked songs.
 
+
+![image](https://github.com/user-attachments/assets/12afa413-4909-4fa2-8ae9-0a78d6e2942c)
+
 ### Features
 
 * Interactive "Now Playing" section with dynamic UI feedback
